@@ -1,9 +1,14 @@
 # WindowsBooster
 
 It is the ultimate Windows 10 booster !
+
+Attach your belt because...
+
 This will make you computer run very fast !
+
 This application stops unnecessary services on your Windows 10 operating system.
-As soon as a new services is launched then it stops it immediately.
+
+As soon as a new useless service is launched then it is stopped immediately.
 
 Unzip WinSystemGuard.zip
 
