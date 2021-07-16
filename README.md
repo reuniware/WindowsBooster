@@ -1,4 +1,4 @@
-# WindowsBooster
+# Windows Booster (Windows System Guard)
 
 It is the ultimate Windows 10 booster !
 
